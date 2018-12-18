@@ -111,10 +111,6 @@ PRODUCT_PRODUCT_PROPERTIES += \
 PRODUCT_PACKAGES += \
     libcnefeatureconfig
 
-# Configstore
-PRODUCT_PACKAGES += \
-    android.hardware.configstore@1.0-service
-
 # Display
 PRODUCT_PACKAGES += \
     gralloc.sdm660 \
